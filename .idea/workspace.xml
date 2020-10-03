@@ -35320,6 +35320,7 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1iLbtJvuOPxHn0LAujT11JGL5Pa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35354,14 +35355,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601690032249</updated>
-      <workItem from="1601690044484" duration="1532000" />
+      <workItem from="1601690044484" duration="2449000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1601693030879">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1366.738/-133.-1080.1280.689@0.0.1366.738" timestamp="1601693030879" />
     <state x="463" y="148" key="FileChooserDialogImpl" timestamp="1601692162749">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
