@@ -11,6 +11,7 @@ module.exports = {
             },
             '/foo': {
                 target: '<other_url>'
+                
             }
         }
     },
